@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Introduction</title>
+    
 </head>
 <body>
-    <h1>Introduction</h1>
+    <h1>MAC Randomization </h1>
     <p>
         In this report, we analyzed the MAC randomization behavior in Wi-Fi probe requests of the iPhone 15 Pro Max and Xiaomi 11T Pro devices. Using a sniffer in monitor mode and Wireshark, we captured and examined probe request packets in different scenarios. Through a sniffing and filtering procedure, we explored the patterns and variations in MAC randomization for both devices. The findings offer valuable insights into the privacy protection mechanisms employed by these devices during Wi-Fi connections.
     </p>
